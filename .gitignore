@@ -1,0 +1,11 @@
+__pycache__/
+build/
+.venv/
+release/
+tools/video-tools/
+tests/.tmp/
+/data/
+.env
+.env.*
+!.env.example
+*.log
